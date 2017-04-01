@@ -1,4 +1,4 @@
-#MovieTweetings statistics
+# MovieTweetings statistics
 
 Here are some MovieTweetings statistics. Note that these are autocalculated and may not be completely up to date. Any interesting stats missing here? Ping me, and I'll add them!
 
